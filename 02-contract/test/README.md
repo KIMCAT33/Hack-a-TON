@@ -1,6 +1,6 @@
 # Hack-A-TON Korea Hacker House FunC Tutorial
 
-![image]("https://www.dropbox.com/s/am2kuwgg6m2x9q4/hackaton.png?dl=0")
+![image]("https://cdn.dorahacks.io/static/files/Hack-a-TONx_4.jpg")
 
 This directory helps us make sure that this tutorial is always working and none of the libraries it depends on has introduced breaking changes. The directory contains a simple automated test that performs all the steps and makes sure they work as expected.
 
