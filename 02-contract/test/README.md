@@ -1,6 +1,6 @@
 # Hack-A-TON Korea Hacker House FunC Tutorial
 
-![image](https://pbs.twimg.com/media/FgFzA72XkAAtjNq.jpg)
+![image](https://www.dropbox.com/s/am2kuwgg6m2x9q4/hackaton.png?dl=0)
 
 This directory helps us make sure that this tutorial is always working and none of the libraries it depends on has introduced breaking changes. The directory contains a simple automated test that performs all the steps and makes sure they work as expected.
 
