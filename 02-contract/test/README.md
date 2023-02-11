@@ -1,6 +1,6 @@
 # Hack-A-TON Korea Hacker House FunC Tutorial
 
-![image](images/hackathon.png)
+![image](./images/hackathon.png)
 
 This directory helps us make sure that this tutorial is always working and none of the libraries it depends on has introduced breaking changes. The directory contains a simple automated test that performs all the steps and makes sure they work as expected.
 
